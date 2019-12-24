@@ -2,4 +2,4 @@
 
 Usage:
 
-    mvn clean test
+    ./mvnw clean test
