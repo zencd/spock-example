@@ -1,0 +1,4 @@
+/report-*.json
+*.iml
+.idea
+**/target/
