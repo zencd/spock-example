@@ -1,5 +1,5 @@
 ### A Spock Example
 
-Usage:
-
-    ./mvnw clean test
+- Compilable and runnable
+- Java 8 ready
+- Usage: `./mvnw clean test`
